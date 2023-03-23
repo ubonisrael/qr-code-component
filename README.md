@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](qr-code-component-itnre1mog-ubonisrael.vercel.app)
+- Live Site URL: [qr-code-component-itnre1mog-ubonisrael.vercel.app](https://www.qr-code-component-itnre1mog-ubonisrael.vercel.app)
 
 ## My process
 
@@ -31,7 +31,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 I learned how to recreate a design with HTML and CSS.
-
 
 ### Continued development
 
