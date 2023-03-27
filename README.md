@@ -30,7 +30,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I learned how to recreate a design with HTML and CSS.
+I learned how to recreate a design with HTML and CSS with emphasis on semantic markup.
 
 ### Continued development
 
